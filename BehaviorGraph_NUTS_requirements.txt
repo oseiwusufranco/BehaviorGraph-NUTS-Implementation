@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+imbalanced-learn
+xgboost
+pymc
+arviz
+psutil
+ipython
+jupyter
